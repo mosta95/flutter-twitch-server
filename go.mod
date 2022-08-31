@@ -1,7 +1,7 @@
-// +heroku goVersion go1.15
+// +heroku goVersion go1.17
 module agora-tutorial-server
 
-go 1.15
+go 1.17
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0
