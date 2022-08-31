@@ -1,4 +1,4 @@
-// +heroku goVersion go1.17
+// +heroku goVersion go 1.17
 module agora-tutorial-server
 
 go 1.17
